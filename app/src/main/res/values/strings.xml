@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CurrencyList</string>
+    <string name="default_error">Some error appeared</string>
+</resources>
